@@ -1,0 +1,10 @@
+{
+  "menu": {
+    "gas": "2",
+    "temperature": "3",
+    "humidity": "2",
+    "pressure": "2"
+  },
+  "default-currency": "iota",
+  "list-of-currencies": ["iota", "bitcoin", "ethereum"]
+}
